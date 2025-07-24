@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=250&section=header&text=Hi%20I'm%20Najeeullah%20&fontSize=45&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=25&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20I'm%20Najeeullah%20👋" />
 </p>
 
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+Magyarorszag&weight=900&size=32&duration=1500&pause=1000&color=F1F1F1&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+Developer;Full+Stack+Developer;AI+Enthusiast;Clean+Code+Advocate;Always+Learning" alt="Typing SVG" />
+</p>
 
 ## 🌟 About Me
-
-
 
 ```yaml
 name: Najeeullah Yousfani  
