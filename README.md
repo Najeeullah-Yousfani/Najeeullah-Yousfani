@@ -107,12 +107,12 @@ hobbies: ["Tech Blogging", "Coding Challenges", "Traveling"]
 </div>
 
 ---
-
 ## 🐍 Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Najeeullah-Yousfani/Najeeullah-Yousfani/output/snake.svg" alt="Snake animation" />
 </div>
+
 
 ---
 
