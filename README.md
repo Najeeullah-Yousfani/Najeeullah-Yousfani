@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20I'm%20Najeeullah%20👋" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=timeGradient&text=Hi%20I'm%20Najeeullah%20👋" />
 </p>
 
 <p align="center">
@@ -11,13 +11,13 @@
 ```yaml
 name: Najeeullah Yousfani  
 located_in: Siegen, Germany  
-current_job: Master's Student – Computer Science (Universität Siegen)  
-education: ["Computer Science", "Universität Siegen"]  
+current_job: Master's Student – Computer Science (Universität Siegen)  / Open to Work
+education: ["MSc Computer Science", "Universität Siegen"]  
 company: Freelance / Open to Collaboration  
 
-fields_of_interests: ["Backend Development", "Full-Stack Applications", "Machine Learning", "Generative AI"]  
+fields_of_interests: ["Backend Development", "Full-Stack Applications", "LLM", "Generative AI", "CI/CD", "Github Actions"]  
 technical_background: ["Full-Stack Development", "System Optimization", "Database Query Optimization"]  
-currently_learning: ["Next.js", "TypeScript", "Generative AI Models"]  
+currently_learning: ["Next.js", "TypeScript", "Generative AI Models", "LLM", "Transformers"]  
 2025_goals: ["Contribute to Open Source", "Build SaaS Products", "Master Generative AI & System Design"]  
 hobbies: ["Tech Blogging", "Coding Challenges", "Traveling"]  
 ```
