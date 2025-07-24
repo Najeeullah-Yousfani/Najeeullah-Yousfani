@@ -105,15 +105,6 @@ hobbies: ["Tech Blogging", "Coding Challenges", "Traveling"]
   <img src="https://raw.githubusercontent.com/Najeeullah-Yousfani/Najeeullah-Yousfani/output/snake.svg" alt="Snake animation" />
 </div>
 
-
----
-
-## 🎵 Currently Listening To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
-</div>
-
 ---
 
 ## 🌐 Connect With Me
@@ -136,9 +127,6 @@ hobbies: ["Tech Blogging", "Coding Challenges", "Traveling"]
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" alt="Dev Quote"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Najeeullah-Yousfani&style=for-the-badge&color=6366f1" alt="Profile Views"/>
@@ -148,4 +136,8 @@ hobbies: ["Tech Blogging", "Coding Challenges", "Traveling"]
 
 <div align="center">
   <h3>⭐️ From <a href="https://github.com/Najeeullah-Yousfani">Najeeullah-Yousfani</a> with ❤️</h3>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
