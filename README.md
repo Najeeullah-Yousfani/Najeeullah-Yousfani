@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%236366F1&size=30&center=true&vCenter=true&width=450&lines=👋+Hi+there!+I'm+Najeeullah;Full+Stack+%26+Backend+Developer+💻;AI+%26+ML+Enthusiast+🤖;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%236366F1&size=30&center=true&vCenter=true&width=450&lines=👋+Hi+there!+I'm+Najeeullah+;Full+Stack+%26+Backend+Developer+💻;AI+%26+ML+Enthusiast+🤖;Always+Learning+📚" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,8 +14,9 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+
+```yaml
 name: Najeeullah Yousfani  
 located_in: Siegen, Germany  
 current_job: Master's Student – Computer Science (Universität Siegen)  
@@ -27,8 +28,7 @@ technical_background: ["Full-Stack Development", "System Optimization", "Databas
 currently_learning: ["Next.js", "TypeScript", "Generative AI Models"]  
 2025_goals: ["Contribute to Open Source", "Build SaaS Products", "Master Generative AI & System Design"]  
 hobbies: ["Tech Blogging", "Coding Challenges", "Traveling"]  
-
-<br clear="right"/>
+```
 
 ---
 
