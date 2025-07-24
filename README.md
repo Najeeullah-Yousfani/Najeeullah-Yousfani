@@ -1,14 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=250&section=header&text=Hi%20I'm%20Najeeullah%20&fontSize=45&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=25&descAlignY=55" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%236366F1&size=30&center=true&vCenter=true&width=450&lines=👋+Hi+there!+I'm+Najeeullah+;Full+Stack+%26+Backend+Developer+💻;AI+%26+ML+Enthusiast+🤖;Always+Learning+📚" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="400" alt="Coding gif"/>
-</div>
 
 ---
 
